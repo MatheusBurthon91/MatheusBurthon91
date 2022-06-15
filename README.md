@@ -1,4 +1,23 @@
-EM CONSTRUÇÂO...
+<div>
+ <h1>Bem vindas a todas as pessoas do Github!!!</h1>
+ 
+ <h1>Sobre mim</h1>
+  <div>
+   <h1>Hello World! Me chamo Matheus Burthon</h1>
+   <p>
+    - Tenho 30 anos de idade, primeiro ano de programação, conhecendo e amando cada vez a área de tecnologia, cada dia que passa
+   é uma novidade. Buscando a primeira opotunidade de trabalho.
+   </p>
+   
+   <span>- Desenvolvedor Web fullStack</span>
+   
+   <span>- status atual: finalizando o modulo de backend na Trybe</span>
+   
+   <span>- Hobbies: Assitir Animes, ler mangás</span>
+   
+   <span>- Adoro Animais.</span>
+ </div>
+ </div>
 
 <div>
 
@@ -15,22 +34,22 @@ EM CONSTRUÇÂO...
   
   <div>
    <a href="https://www.codewars.com/users/MatheusBurthon91">
-    <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+    <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
    </a>
     
    <a href="https://www.linkedin.com/in/matheusburthon91/">
-    <img alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img target="_blank" alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
     
    <a href="https://github.com/MatheusBurthon91">
-    <img alt="github-jpg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img target="_blank" alt="github-jpg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    </a>
   </div>
 </div>
 
 <div>
 
-<h1>Tecnologias aprendidas: </h1>
+<h1>Tecnologias Utilizadas: </h1>
 
 <h2>Linguagem de marcação:</h2>
 
@@ -63,12 +82,3 @@ EM CONSTRUÇÂO...
 <img alt="jpg-node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </div>
-
-
-
-
-
-
-
-
-
