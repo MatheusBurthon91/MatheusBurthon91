@@ -1,9 +1,10 @@
 <div>
  <h1>Bem vindas a todas as pessoas do Github!!!</h1>
  
- <h1>Sobre mim</h1>
   <div>
    <h1>Hello World! Me chamo Matheus Burthon</h1>
+
+   <h3>Sobre mim</h3>
    <p>
     - Tenho 30 anos de idade, primeiro ano de programação, conhecendo e amando cada vez a área de tecnologia, cada dia que passa
    é uma novidade. Buscando a primeira opotunidade de trabalho.
