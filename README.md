@@ -1,8 +1,26 @@
 EM CONSTRUÇÂO...
 
-<div style="border: 2px solid blue">
+<div>
+  <h1>Redes Sociais</h1>
+  
+  <div>
+   <a href="https://www.codewars.com/users/MatheusBurthon91">
+    <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+   </a>
+    
+   <a href="https://www.linkedin.com/in/matheusburthon91/">
+    <img alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+    
+   <a href="https://github.com/MatheusBurthon91">
+    <img alt="github-jpg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+   </a>
+  </div>
+</div>
 
-<h1 style="color: red">Tecnologias aprendidas: </h1>
+<div>
+
+<h1>Tecnologias aprendidas: </h1>
 
 <h2>Linguagem de marcação:</h2>
 
