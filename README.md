@@ -2,7 +2,7 @@ EM CONSTRUÇÂO...
 
 <div style="border: 2px solid blue">
 
-<h1>Tecnologias aprendidas: </h1>
+<h1 style="color: red">Tecnologias aprendidas: </h1>
 
 <h2>Linguagem de marcação:</h2>
 
