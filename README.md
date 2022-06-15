@@ -33,16 +33,16 @@
   <h1>Redes Sociais</h1>
   
   <div>
-   <a href="https://www.codewars.com/users/MatheusBurthon91">
-    <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
+   <a href="https://www.codewars.com/users/MatheusBurthon91" target="_blank">
+    <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
    </a>
     
-   <a href="https://www.linkedin.com/in/matheusburthon91/">
-    <img target="_blank" alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/matheusburthon91/" target="_blank">
+    <img alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
     
-   <a href="https://github.com/MatheusBurthon91">
-    <img target="_blank" alt="github-jpg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+   <a href="https://github.com/MatheusBurthon91" target="_blank">
+    <img alt="github-jpg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    </a>
   </div>
 </div>
