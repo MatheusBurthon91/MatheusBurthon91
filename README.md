@@ -49,9 +49,9 @@
 
 <div>
 
-<h1>Tecnologias Utilizadas: </h1>
+<h1>Tecnologias Utilizadas</h1>
 
-<h2>Linguagem de marcação:</h2>
+<h2>Linguagem de marcação</h2>
 
 <img alt="jpg-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -59,7 +59,7 @@
 
 <img alt="jpg-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
-<h2>Linguagens de programação:</h2>
+<h2>Linguagens de programação</h2>
 
 <img alt="jpg-js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
@@ -71,7 +71,7 @@
 
 <img alt="jpg-redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
-<h2>Bancos de dados:</h2>
+<h2>Bancos de dados</h2>
 
 <img alt="jpg-mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
