@@ -1,10 +1,10 @@
 EM CONSTRUÇÂO...
 
-<div border: 10px solid blue>
+<div style="border: 2px solid blue">
 
 <h1>Tecnologias aprendidas: </h1>
 
-<h2>Linguagen de marcação:</h2>
+<h2>Linguagem de marcação:</h2>
 
 <img alt="jpg-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
