@@ -80,5 +80,17 @@
 <h2>Frameworks e bibliotecas: Back-end</h2>
 
 <img alt="jpg-node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ 
+<h2>ORM</h2>
+ 
+<img alt="jpg-sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+ 
+ <h2>Versionamento</h2>
+ 
+<img alt="jpg-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
+ 
+<h2>Terminal</h2>
+ 
+<img alt="terminal-jpg" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 </div>
