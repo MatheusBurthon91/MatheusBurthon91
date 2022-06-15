@@ -1,7 +1,8 @@
 EM CONSTRUÇÂO...
 
-<div border: 2px solid blue>
-**Tecnologias aprendidas:**
+<div border: 10px solid blue>
+
+<h1>Tecnologias aprendidas: </h1>
 
 <h2>Linguagen de marcação:</h2>
 
@@ -9,7 +10,7 @@ EM CONSTRUÇÂO...
 
 <h2>Linguagem de estilização</h2>
 
-<img alt="jpg-css" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img alt="jpg-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
 <h2>Linguagens de programação:</h2>
 
