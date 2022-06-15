@@ -1,7 +1,7 @@
 EM CONSTRUÇÂO...
 
 <div>
-  <h1 color="blue">Redes Sociais</h1>
+  <h1 color="red">Redes Sociais</h1>
   
   <div>
    <a href="https://www.codewars.com/users/MatheusBurthon91">
