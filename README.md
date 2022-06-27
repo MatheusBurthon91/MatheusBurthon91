@@ -14,9 +14,9 @@
    é uma novidade. Buscando a primeira opotunidade de trabalho.
    </p>
    
-   <span>- Desenvolvedor Web fullStack</span>
+   <span>- Desenvolvedor Web fullStack.</span>
    
-   <span>- status atual: finalizando o modulo de backend na Trybe</span>
+   <span>- status atual: Iniciando o modulo de Introdução a ciência da computação na Trybe.</span>
    
    <span>- Hobbies: Assitir Animes, ler mangás</span>
    
