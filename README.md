@@ -1,5 +1,5 @@
 <div>
- <h1>Boas Vindas</h1>
+ <h1>Boas Vindas!!</h1>
  <!--
   <details>
     <summary>Translate English</summary>
@@ -8,7 +8,7 @@
  --> 
  
   <div>
-   <h1>Olá! Me chamo Matheus é um prazer conhece-los</h1>
+   <h1>Olá! Meu nome é Matheus, é um prazer conhece-los.</h1>
 
    <h3>Sobre mim</h3>
    <p>
