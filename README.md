@@ -8,21 +8,15 @@
  --> 
  
   <div>
-   <h1>Hello World! Me chamo Matheus Burthon</h1>
+   <h1>Olá! Me chamo Matheus é um prazer conhece-los</h1>
 
    <h3>Sobre mim</h3>
    <p>
-    - Tenho 30 anos de idade, primeiro ano de programação, conhecendo e amando cada vez a área de tecnologia, cada dia que passa
-   é uma novidade. Buscando a primeira opotunidade de trabalho.
+    Sou desenvolvedor fullstack, voltado para o desenvolvimento backend na linguagem python, com quase 3 anos de experiência, atuando na área. Na experiencia tive contato com javascript, integrações com api's e criação de api's para utilizar em ambientes isolados como utilizar em uma IDE da Wix.
+
+Desenvolvedor que veio da área industrial, onde aprendi a lidar de forma logica com resolução de problemas e entendimento de como a algortimo deve ser construido e elaborado, tenho pretensão de visar crescer no desenvolvimento backend e manutenção de sistemas, estou aqui para ajudar e também aprender mais sobre o mundo da tecnologia independente de qualquer ferramenta.
    </p>
    
-   <span>- Desenvolvedor Web fullStack.</span>
-   
-   <span>- status atual: Iniciando o modulo de Introdução a ciência da computação na Trybe.</span>
-   
-   <span>- Hobbies: Assitir Animes, ler mangás</span>
-   
-   <span>- Adoro Animais.</span>
  </div>
  </div>
 
@@ -30,10 +24,6 @@
 
  <h1>Github status</h1>
 
-<img alt="status" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBurthon91&show_icons=true&theme=tokyonight" />
- 
-<img alt="most-linguages" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBurthon91&layout=compact&theme=tokyonight" />
- 
 </div>
 
 <div>
@@ -44,7 +34,7 @@
     <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
    </a>
     
-   <a href="https://www.linkedin.com/in/matheusburthon91/" target="_blank">
+   <a href="https://www.linkedin.com/in/matheus-burthon-dev/" target="_blank">
     <img alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
    </a>
     
