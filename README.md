@@ -22,7 +22,7 @@ Desenvolvedor que veio da área industrial, onde aprendi a lidar de forma logica
 
 <div>
 
- <h1>Github status</h1>
+ <!--<h1>Github status</h1>-->
 
 </div>
 
@@ -30,20 +30,11 @@ Desenvolvedor que veio da área industrial, onde aprendi a lidar de forma logica
   <h1>Redes Sociais</h1>
   
   <div>
-   <a href="https://www.codewars.com/users/MatheusBurthon91" target="_blank">
-    <img alt="codewars-jpg" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank" />
-   </a>
     
    <a href="https://www.linkedin.com/in/matheus-burthon-dev/" target="_blank">
     <img alt="linkedin-jpg" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
    </a>
     
-   <a href="https://github.com/MatheusBurthon91" target="_blank">
-    <img alt="github-jpg" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-   </a>
-   <a href="mailto:matatiaspatrizio@hotmail.com">
-   <img alt="email-jpg"       src="https://camo.githubusercontent.com/bfb17327cb145f05d8a65b3a7496c5f9a9112ec10ebfb9238aa8f0b2a6cc83db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d3030323035303f7374796c653d666f722d7468652d6261646765266c6f676f3d4d696e7574656d61696c6572266c6f676f436f6c6f723d7768697465" />
-   </a>
   </div>
 </div>
 
